@@ -1,0 +1,9 @@
+serial number                     page link                                 date/time                pass/fail                     description
+                    
+
+    1                         Object Repository/Page Anna University,
+                              Chennai/h3_NEWS  EVENTS                      06-12-2024 12:45:55 pm      fail          com.kms.katalon.core.exception.
+                                                                                                                     StepFailedException: Unable to click on object                                         
+                                                                   
+  
+                                                      
